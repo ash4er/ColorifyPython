@@ -17,3 +17,5 @@ cprint("Test string", "magenta")
 cprint("Test string", "cyan") 
 cprint("Test string", "white") 
 ```
+
+![Example](https://github.com/ash4er/ColorifyPython/blob/master/coror_text.png)
